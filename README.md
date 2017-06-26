@@ -16,6 +16,8 @@ Download the repository and extract the contents to a folder. Then, use Visual S
 
 ## How to Use
 
+![](https://github.com/robertsonje/QBRatingCalculator/blob/master/rc/user-interface.png?raw=true)
+
 Use of this program is simple. Add the quarterback's name in the top bar. Then, add the quarterback's total completions, attempts, yards, touchdowns, and interceptions. Once that's done, click on the "Go!" button to get the QB rating.
 
 ## How Passer Rating is Calculated
