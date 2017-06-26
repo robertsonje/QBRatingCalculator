@@ -1,5 +1,5 @@
 # QBRatingCalculator
----
+
 ## Table of Contents
 
 - Description
@@ -24,8 +24,8 @@ Use of this program is simple. Add the quarterback's name in the top bar. Then, 
 
 This program primarily uses the NFL/CFL formula for calculating the passer rating. The formula is divided into four components based on the stats. These components are denoted a, b, c, and d respectively.
 
-- ![](http://https://wikimedia.org/api/rest_v1/media/math/render/svg/d0cf9b3484a1bd6e8b21d985ca392fe003a65cfa)
-- ![](http:/https://wikimedia.org/api/rest_v1/media/math/render/svg/3864e4934d831230be43ceb64ad940776f314024/)
+- ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/d0cf9b3484a1bd6e8b21d985ca392fe003a65cfa)
+- ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/3864e4934d831230be43ceb64ad940776f314024)
 - ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/8783a051cb0c490058e607291976288210839be2)
 - ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/53b626cff6ce1beba0c6bf3c02aca666a9f3a697)
 
